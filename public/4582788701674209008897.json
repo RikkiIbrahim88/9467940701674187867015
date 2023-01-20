@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887134187194",
+    "project_id": "twibbon-idul-fitri",
+    "storage_bucket": "twibbon-idul-fitri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887134187194:android:a72b5ba10a50f8694d5c83",
+        "android_client_info": {
+          "package_name": "com.raidev.twibbonmaker.photoframe.bingkaifotoidulfitri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887134187194-4gfm3eld62karmh3gj0di7r5inavr36e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvf--iaFOIDzPTwgZcdGLw_Uqx3WA4UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887134187194-4gfm3eld62karmh3gj0di7r5inavr36e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
