@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81614033629",
+    "project_id": "twibbon-harlah-nu",
+    "storage_bucket": "twibbon-harlah-nu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81614033629:android:6b0cf9b8b9d101d1274134",
+        "android_client_info": {
+          "package_name": "com.raidev.twibbonmaker.photoframe.bingkaifotoharlahnu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81614033629-rm9bmfiq468rku18u8qmv5oj77rnu2hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xwdyKbD9z8AgeWbkUUXPAYqKQ16W3GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81614033629-rm9bmfiq468rku18u8qmv5oj77rnu2hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
